@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: "Briem Hand", cursive;
+}
+
+*::-webkit-scrollbar{
+  display: none;
+}
+
+body::-webkit-scrollbar, html::-webkit-scrollbar{
+  display: block;
+}
+body::-webkit-scrollbar-thumb, html::-webkit-scrollbar-thumb{
+  display: block;
+  background: tan;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.input{
+  background: none;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid white;
+  margin: 0.3rem 0;
+}
+
+
+@media screen and (max-width:800px) {
+  .homeVideo{
+    width: fit-content;
+    height: 100vh;
+  }
+}
+
+h2{
+  height: 8vh;
+}
+
+:not(html){
+  overflow-y: hidden;
+}
