@@ -9,7 +9,7 @@
   scroll-behavior: smooth;
   box-sizing: border-box;
   overflow-x: hidden;
-  font-family: "Briem Hand", cursive;
+  font-family: "Helvetica", cursive;
 }
 
 *::-webkit-scrollbar{
