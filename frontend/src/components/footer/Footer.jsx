@@ -27,8 +27,8 @@ const Footer = () => {
             <div className='flex w-full *:w-full my-2 flex-col flex-nowrap text-xl *:size-10'>
                 <h3 className='text-2xl font-bold'>Contact us</h3>
                 <p className='flex flex-nowrap items-center gap-1'><HiLocationMarker /> Location</p>
-                <p className='flex flex-nowrap items-center gap-1'><IoCall /> Call +91-000</p>
-                <p className='flex flex-nowrap items-center gap-1'><MdEmail /> demo@gmail.com</p>
+                <p className='flex flex-nowrap items-center gap-1'><IoCall />Call +91-9878786543</p>
+                <p className='flex flex-nowrap items-center gap-1'><MdEmail />librariesworld25@gmail.com</p>
             </div>
             <p className='text-orange-400'>Copyright ©2024. All Rights Reserved.</p>
         </div>
