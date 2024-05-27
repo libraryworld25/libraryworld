@@ -12,12 +12,12 @@
   font-family: "Helvetica", cursive;
 }
 
-*::-webkit-scrollbar{
+/* *::-webkit-scrollbar{
   display: none;
-}
+} */
 
 body::-webkit-scrollbar, html::-webkit-scrollbar{
-  display: block;
+  display: none;
 }
 body::-webkit-scrollbar-thumb, html::-webkit-scrollbar-thumb{
   display: block;
