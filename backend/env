@@ -1,5 +1,0 @@
-    DATABASE_URI=mongodb+srv://Ishika:welcome1234@atlascluster.vnthoaw.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster
-    JWT_SECRET_KEY=SECRETKEY
-    GMAIL=librariesworld25@gmail.com
-    # APP_PASS=tacqyetosajvocrq
-    APP_PASS=yrxcnwsoelggalkp
